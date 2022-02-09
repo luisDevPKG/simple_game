@@ -1,0 +1,34 @@
+ body{
+    width: 960px;
+    margin: 0 auto;
+    background-color: #E3E3E3;
+     }
+
+ h1{
+     text-align: center;
+    }
+ p{
+    text-align: center;
+    font-weight: bold;
+ }
+#pantalla{
+     border: solid 3px white;
+     background: white;   
+    }
+#boton{
+        background-color: #6F95F6;
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        font-weight: bolder;
+        padding: 5px;
+        border: solid 2px black;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+}
+#boton:hover{ 
+         background-color: #6F95F6;
+         font-size: 24px;
+         border: groove 2px black;
+}
